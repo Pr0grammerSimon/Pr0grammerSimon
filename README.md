@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pr0grammerSimon
 - 👀 I’m interested in Python and Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
