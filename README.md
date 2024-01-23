@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Web Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - add me on Discord Tapik#9791
 
 <!---
 Pr0grammerSimon/Pr0grammerSimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
