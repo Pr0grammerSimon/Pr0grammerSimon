@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pr0grammerSimon
 - 👀 I’m interested in Python and Web Development
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Dev
 - 📫 How to reach me - add me on a Discord Tapik#9791
 
 <!---
